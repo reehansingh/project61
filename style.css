@@ -1,0 +1,10 @@
+
+li{ color:red; float:left; padding-left: 9px; padding-right: 9px; padding-top: 5px; padding-bottom: 5px; display: inline;}
+body{
+  text-align:center;
+}
+li{
+  float:left;padding:30px
+}li:hover{ background-color: dodgerblue;}
+
+  
